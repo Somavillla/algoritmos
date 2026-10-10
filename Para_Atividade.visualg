@@ -1,0 +1,12 @@
+algoritmo "contagemsimples"
+
+var 
+i : inteiro
+
+inicio
+escreval("Iniciando voltas...")
+para i de 1 ate 5 faca
+escreval("Completou volta número: ", i)
+fimpara
+
+fimalgoritmo
